@@ -1,0 +1,145 @@
+{
+  "ex_0000": {
+    "id": "ex_0000",
+    "source_cn": "以太之力",
+    "target_vn": "Sức mạnh Aether",
+    "pattern_type": "direct",
+    "extracted_pattern": "",
+    "category": "power",
+    "explanation": "Aether = nguồn năng lượng vũ trụ",
+    "created_at": "2026-02-03T21:09:37.664049",
+    "used_count": 0
+  },
+  "ex_0001": {
+    "id": "ex_0001",
+    "source_cn": "神赐之力",
+    "target_vn": "Thần lực",
+    "pattern_type": "direct",
+    "extracted_pattern": "",
+    "category": "power",
+    "explanation": "Sức mạnh thần linh ban tặng",
+    "created_at": "2026-02-03T21:09:37.664104",
+    "used_count": 0
+  },
+  "ex_0002": {
+    "id": "ex_0002",
+    "source_cn": "黑暗之力",
+    "target_vn": "Sức mạnh Bóng tối",
+    "pattern_type": "direct",
+    "extracted_pattern": "",
+    "category": "power",
+    "explanation": "Năng lượng thuộc tính tối",
+    "created_at": "2026-02-03T21:09:37.664109",
+    "used_count": 0
+  },
+  "ex_0003": {
+    "id": "ex_0003",
+    "source_cn": "生命之力",
+    "target_vn": "Sinh lực",
+    "pattern_type": "direct",
+    "extracted_pattern": "",
+    "category": "power",
+    "explanation": "Năng lượng sự sống",
+    "created_at": "2026-02-03T21:09:37.664113",
+    "used_count": 0
+  },
+  "ex_0004": {
+    "id": "ex_0004",
+    "source_cn": "死亡之力",
+    "target_vn": "Tử lực",
+    "pattern_type": "direct",
+    "extracted_pattern": "",
+    "category": "power",
+    "explanation": "Năng lượng chết chóc",
+    "created_at": "2026-02-03T21:09:37.664116",
+    "used_count": 0
+  },
+  "ex_0005": {
+    "id": "ex_0005",
+    "source_cn": "神赐之晶",
+    "target_vn": "Tinh thể Thần lực",
+    "pattern_type": "direct",
+    "extracted_pattern": "",
+    "category": "item",
+    "explanation": "Tinh thể chứa thần lực cô đọng",
+    "created_at": "2026-02-03T21:09:37.664121",
+    "used_count": 0
+  },
+  "ex_0006": {
+    "id": "ex_0006",
+    "source_cn": "以太之晶",
+    "target_vn": "Tinh thể Aether",
+    "pattern_type": "direct",
+    "extracted_pattern": "",
+    "category": "item",
+    "explanation": "Tinh thể chứa năng lượng Aether",
+    "created_at": "2026-02-03T21:09:37.664124",
+    "used_count": 0
+  },
+  "ex_0007": {
+    "id": "ex_0007",
+    "source_cn": "生命之晶",
+    "target_vn": "Tinh thể Sinh mệnh",
+    "pattern_type": "direct",
+    "extracted_pattern": "",
+    "category": "item",
+    "explanation": "Tinh thể chứa sinh lực",
+    "created_at": "2026-02-03T21:09:37.664127",
+    "used_count": 0
+  },
+  "ex_0008": {
+    "id": "ex_0008",
+    "source_cn": "噬神器",
+    "target_vn": "Thần Khí",
+    "pattern_type": "direct",
+    "extracted_pattern": "",
+    "category": "special",
+    "explanation": "Vũ khí sử dụng Thần lực (KHÔNG phải vũ khí diệt thần)",
+    "created_at": "2026-02-03T21:09:37.664130",
+    "used_count": 0
+  },
+  "ex_0009": {
+    "id": "ex_0009",
+    "source_cn": "神泉者",
+    "target_vn": "Thần Tuyền Giả",
+    "pattern_type": "direct",
+    "extracted_pattern": "",
+    "category": "special",
+    "explanation": "Người sở hữu Suối Thần",
+    "created_at": "2026-02-03T21:09:37.664134",
+    "used_count": 0
+  },
+  "ex_0010": {
+    "id": "ex_0010",
+    "source_cn": "异类",
+    "target_vn": "Dị loại",
+    "pattern_type": "direct",
+    "extracted_pattern": "",
+    "category": "special",
+    "explanation": "Quái vật/sinh vật đột biến trong Mạt thế",
+    "created_at": "2026-02-03T21:09:37.664137",
+    "used_count": 0
+  },
+  "ex_0011": {
+    "id": "ex_0011",
+    "source_cn": "觉醒者",
+    "target_vn": "Giác Ngộ Giả",
+    "pattern_type": "direct",
+    "extracted_pattern": "",
+    "category": "special",
+    "explanation": "Người thức tỉnh năng lực",
+    "created_at": "2026-02-03T21:09:37.664140",
+    "used_count": 0
+  },
+  "ex_0012": {
+    "id": "ex_0012",
+    "source_cn": "进化者",
+    "target_vn": "Tiến Hóa Giả",
+    "pattern_type": "direct",
+    "extracted_pattern": "",
+    "category": "special",
+    "explanation": "Người đã tiến hóa năng lực",
+    "created_at": "2026-02-03T21:09:37.664142",
+    "used_count": 0
+  }
+}

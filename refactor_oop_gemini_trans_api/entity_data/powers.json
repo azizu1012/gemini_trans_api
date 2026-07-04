@@ -1,0 +1,81 @@
+{
+  "aether_power": {
+    "id": "aether_power",
+    "name_cn": "以太之力",
+    "name_vn": "Sức mạnh Aether",
+    "aliases": [
+      "Linh lực Aether",
+      "Năng lượng Aether"
+    ],
+    "entity_type": "power",
+    "description": "Năng lượng cơ bản của thế giới, nguồn sức mạnh cho nhiều năng lực khác",
+    "first_seen_chapter": 0,
+    "last_seen_chapter": 0,
+    "mention_count": 0,
+    "related_entities": [],
+    "tags": [
+      "basic",
+      "energy",
+      "universal"
+    ],
+    "power_type": "aether",
+    "source": "Aether (nguồn năng lượng vũ trụ)",
+    "requirements": [],
+    "side_effects": [],
+    "known_users": []
+  },
+  "divine_power": {
+    "id": "divine_power",
+    "name_cn": "神赐之力",
+    "name_vn": "Thần lực",
+    "aliases": [
+      "Sức mạnh Thần ban",
+      "Lực lượng thần thánh"
+    ],
+    "entity_type": "power",
+    "description": "Sức mạnh được thần linh ban tặng",
+    "first_seen_chapter": 0,
+    "last_seen_chapter": 0,
+    "mention_count": 0,
+    "related_entities": [],
+    "tags": [
+      "divine",
+      "blessed",
+      "rare"
+    ],
+    "power_type": "divine",
+    "source": "Thần linh",
+    "requirements": [
+      "Được thần linh chọn",
+      "Có thể chất đặc biệt"
+    ],
+    "side_effects": [],
+    "known_users": []
+  },
+  "spring_power": {
+    "id": "spring_power",
+    "name_cn": "神泉者",
+    "name_vn": "Thần Tuyền Giả",
+    "aliases": [
+      "Kẻ sở hữu Suối Thần"
+    ],
+    "entity_type": "power",
+    "description": "Người được Suối Thần chọn, sở hữu năng lực tái sinh và hồi phục",
+    "first_seen_chapter": 0,
+    "last_seen_chapter": 0,
+    "mention_count": 0,
+    "related_entities": [],
+    "tags": [
+      "divine",
+      "regeneration",
+      "chosen"
+    ],
+    "power_type": "divine",
+    "source": "Suối Thần (Divine Spring)",
+    "requirements": [],
+    "side_effects": [],
+    "known_users": [
+      "lam_nhat"
+    ]
+  }
+}

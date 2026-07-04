@@ -1,0 +1,54 @@
+{
+  "genre_id": "hsr_apocalypse",
+  "genre_name": "Mạt Thế Khoa Huyễn — Huyền Học Đông Phương",
+  "base_tone": "u tối, lạnh lùng, trí tuệ, bí ẩn, tàn khốc nhưng có chiều sâu triết học",
+  "fusion_style": "Hoyoverse Mixology — Pha trộn Sci-fi công nghệ cao + Thần thoại/Huyền học phương Đông",
+
+  "fusion_pairs": {
+    "camera sinh học": "Mắt Thần Cơ Giới",
+    "trạm phong tỏa": "Trận Pháp Phong Ấn",
+    "drone trinh sát": "Thiên Nhãn Cơ Giới",
+    "hệ thống giám sát": "Thiên La Địa Võng",
+    "trận pháp cổ xưa": "Cổ Trận",
+    "năng lượng dị năng": "Năng Lượng Aether",
+    "thiết bị phong tỏa sinh học": "Trận Pháp Giam Cầm",
+    "thần ban chi lực": "Quyền Năng Thần Ban",
+    "thần ban chi tinh": "Tinh Ngọc Thần Ban",
+    "thần tuyển giả": "Thiên Tuyển Giả",
+    "nông trại súc người": "Trang Trại Nhân Loại",
+    "nông trại nhân loại": "Trang Trại Nhân Loại",
+    "sờ lang": "Bọ Ngựa Thiết Giáp",
+    "giáp lang": "Thiết Giáp Lang",
+    "nhân loại ban sơ": "Nhân Loại Thủy Tổ",
+    "ý chí địa cầu": "Ý Chí Địa Cầu"
+  },
+
+  "remake_rules": {
+    "psychological_rationalization": true,
+    "show_dont_tell": true,
+    "logic_bridging": true
+  },
+
+  "plot_optimizations": {
+    "mitigate_power_creep": "Duy trì cảm giác bất lực, tàn khốc của nhân loại trước dị loại cấp cao. Dị loại không gian cao phải được miêu tả như thực thể không tưởng, kỳ dị phi vật lý (Cosmic Horror) thay vì phân cấp sức mạnh đơn thuần. Nhấn mạnh tác động tâm lý, sự ô nhiễm tinh thần thay vì các cuộc đọ chỉ số sức mạnh vật lý.",
+    "active_protagonist_logic": "Khai thác nhãn quan 'học sinh giỏi' và tư duy logic của Lâm Nhất. Thay vì để Trương Thành độc thoại giải thích tất cả, hãy cho Lâm Nhất đặt câu hỏi sắc bén, tự mình xâu chuỗi thông tin từ các manh mối nhỏ nhặt, và đưa ra suy luận logic để chứng tỏ năng lực phán đoán của mình.",
+    "character_rationalization_chu_khai": "Chu Khải phản bội hoặc làm phản diện phải được biểu đạt qua tâm lý giằng xé dữ dội: nỗi ám ảnh bảo vệ em gái Chu Vân, nỗi sợ hãi tột cùng trước cái chết, và di chứng tâm thần do các vòng lặp thất bại. Tránh để hắn hóa ác một cách gượng ép, mất não.",
+    "human_farm_theme_preservation": "Mặc dù bối cảnh chuyển sang thành phố Kuwait, Pease hay Côn Luân, hãy luôn cài cắm nỗi ám ảnh 'nông trại súc người' (Trang Trại Nhân Loại). Nhân vật phải so sánh các cấu trúc thành phố như những chuồng nuôi công nghệ cao, giữ vết sẹo tâm lý của kẻ đào tẩu khỏi lò sát sinh.",
+    "smooth_genre_whiplash": "Khi chuyển dịch giữa các bối cảnh (Học đường -> Cyberpunk Kuwait -> Thần thoại viễn cổ), hãy dùng các cầu nối miêu tả: các công nghệ cyberpunk thực chất là công nghệ chăn nuôi của 'Chủ nô' Tân nhân loại lắp ráp thô sơ; thần thoại Côn Luân thực chất là tàn tích công nghệ gen đa chiều cổ xưa.",
+    "reduce_info_dumping": "Cắt giảm tối đa các đoạn hội thoại giảng giải lý thuyết dài dòng của Trương Thành hoặc các đại tế tư. Thay vào đó, chuyển một phần thông tin thành các ghi chép trên màn hình, dấu vết môi trường, hoặc dòng suy nghĩ phân tích nhanh của Lâm Nhất trong lúc chiến đấu sinh tử."
+  },
+
+  "forbidden_patterns": [
+    "Dịch thô word-by-word tiêu đề chương",
+    "Lạm dụng phiên âm Hán Việt thô cứng kiểu convert (ví dụ: cấm dùng 'Thần Ban Chi Lực', 'Thần Ban Chi Tinh', 'Thần Tuyển Giả', 'Sờ lang', 'Nhân loại ban sơ'; hãy dịch thoát ý/localised sang hệ từ vựng mới)",
+    "Văn phong phẳng lặng kiểu convert (ví dụ: 'Hắn rất tức giận')",
+    "Dùng 'Tôi' cho nhân vật chính trong bối cảnh mạt thế",
+    "Dùng kính ngữ quá mức trong môi trường sinh tồn"
+  ],
+
+  "tone_keywords": [
+    "u ám", "lạnh lùng", "tàn khốc", "bí ẩn",
+    "hoang tàn", "đổ nát", "sinh tồn", "nghiệt ngã",
+    "cổ xưa", "huyền bí", "công nghệ", "dị biến"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "divine_weapon": {
+    "id": "divine_weapon",
+    "name_cn": "噬神器",
+    "name_vn": "Thần Khí",
+    "aliases": [
+      "Vũ khí Thần lực",
+      "Divine Weapon"
+    ],
+    "entity_type": "weapon",
+    "description": "Vũ khí được chế tạo để sử dụng Thần lực, không phải vũ khí diệt thần",
+    "first_seen_chapter": 0,
+    "last_seen_chapter": 0,
+    "mention_count": 0,
+    "related_entities": [],
+    "tags": [
+      "divine",
+      "requires_power"
+    ],
+    "weapon_type": "divine_weapon",
+    "material": "",
+    "abilities": [],
+    "requirements": [
+      "Phải có Thần lực để kích hoạt"
+    ],
+    "current_owner": "",
+    "previous_owners": []
+  },
+  "divine_crystal": {
+    "id": "divine_crystal",
+    "name_cn": "神赐之晶",
+    "name_vn": "Tinh thể Thần lực",
+    "aliases": [
+      "Thần tinh",
+      "Divine Crystal"
+    ],
+    "entity_type": "weapon",
+    "description": "Tinh thể chứa Thần lực cô đọng, dùng để tăng cường sức mạnh",
+    "first_seen_chapter": 0,
+    "last_seen_chapter": 0,
+    "mention_count": 0,
+    "related_entities": [],
+    "tags": [
+      "consumable",
+      "power_boost",
+      "rare"
+    ],
+    "weapon_type": "artifact",
+    "material": "",
+    "abilities": [],
+    "requirements": [],
+    "current_owner": "",
+    "previous_owners": []
+  }
+}

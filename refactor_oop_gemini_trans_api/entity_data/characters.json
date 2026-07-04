@@ -1,0 +1,87 @@
+{
+  "lam_nhat": {
+    "id": "lam_nhat",
+    "name_cn": "林一",
+    "name_vn": "Lâm Nhất",
+    "aliases": [
+      "Lâm ca",
+      "Số 1"
+    ],
+    "entity_type": "character",
+    "description": "Nhân vật chính, có khả năng đặc biệt liên quan đến dị loại",
+    "first_seen_chapter": 0,
+    "last_seen_chapter": 0,
+    "mention_count": 0,
+    "related_entities": [],
+    "tags": [
+      "protagonist",
+      "mutant",
+      "special_ability"
+    ],
+    "role": "protagonist",
+    "affiliation": "",
+    "powers": [
+      "aether_vision",
+      "mutation_control"
+    ],
+    "weapons": [],
+    "status": "alive",
+    "power_level": 0
+  },
+  "truong_thanh": {
+    "id": "truong_thanh",
+    "name_cn": "张城",
+    "name_vn": "Trương Thành",
+    "aliases": [
+      "Thành ca",
+      "Búa Sắt"
+    ],
+    "entity_type": "character",
+    "description": "Đồng đội thân thiết của Lâm Nhất, chiến binh mạnh mẽ",
+    "first_seen_chapter": 0,
+    "last_seen_chapter": 0,
+    "mention_count": 0,
+    "related_entities": [],
+    "tags": [
+      "ally",
+      "warrior",
+      "strength"
+    ],
+    "role": "supporting",
+    "affiliation": "",
+    "powers": [
+      "enhanced_strength"
+    ],
+    "weapons": [
+      "iron_hammer"
+    ],
+    "status": "alive",
+    "power_level": 0
+  },
+  "so_lang": {
+    "id": "so_lang",
+    "name_cn": "楚狼",
+    "name_vn": "Sở Lang",
+    "aliases": [
+      "Lang ca",
+      "Sói Cô Đơn"
+    ],
+    "entity_type": "character",
+    "description": "Thành viên đội, có quá khứ bí ẩn",
+    "first_seen_chapter": 0,
+    "last_seen_chapter": 0,
+    "mention_count": 0,
+    "related_entities": [],
+    "tags": [
+      "ally",
+      "mysterious",
+      "lone_wolf"
+    ],
+    "role": "supporting",
+    "affiliation": "",
+    "powers": [],
+    "weapons": [],
+    "status": "alive",
+    "power_level": 0
+  }
+}

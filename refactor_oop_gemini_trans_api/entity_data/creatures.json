@@ -1,0 +1,81 @@
+{
+  "common_anomaly": {
+    "id": "common_anomaly",
+    "name_cn": "普通异类",
+    "name_vn": "Dị loại thường",
+    "aliases": [],
+    "entity_type": "creature",
+    "description": "Dị loại cấp thấp, số lượng lớn",
+    "first_seen_chapter": 0,
+    "last_seen_chapter": 0,
+    "mention_count": 0,
+    "related_entities": [],
+    "tags": [
+      "common",
+      "low_level"
+    ],
+    "creature_class": "anomaly",
+    "danger_level": "D",
+    "abilities": [
+      "basic_attack"
+    ],
+    "weaknesses": [],
+    "origin": "",
+    "habitat": ""
+  },
+  "elite_anomaly": {
+    "id": "elite_anomaly",
+    "name_cn": "精英异类",
+    "name_vn": "Dị loại tinh anh",
+    "aliases": [],
+    "entity_type": "creature",
+    "description": "Dị loại cấp cao hơn, có năng lực đặc biệt",
+    "first_seen_chapter": 0,
+    "last_seen_chapter": 0,
+    "mention_count": 0,
+    "related_entities": [],
+    "tags": [
+      "elite",
+      "mid_level"
+    ],
+    "creature_class": "anomaly",
+    "danger_level": "B",
+    "abilities": [
+      "special_attack",
+      "enhanced_durability"
+    ],
+    "weaknesses": [],
+    "origin": "",
+    "habitat": ""
+  },
+  "boss_anomaly": {
+    "id": "boss_anomaly",
+    "name_cn": "领主异类",
+    "name_vn": "Dị loại Lãnh Chủ",
+    "aliases": [
+      "Boss",
+      "Chúa tể"
+    ],
+    "entity_type": "creature",
+    "description": "Dị loại cấp boss, cai quản một vùng",
+    "first_seen_chapter": 0,
+    "last_seen_chapter": 0,
+    "mention_count": 0,
+    "related_entities": [],
+    "tags": [
+      "boss",
+      "high_level",
+      "territory"
+    ],
+    "creature_class": "anomaly",
+    "danger_level": "S",
+    "abilities": [
+      "domain_control",
+      "minion_summon",
+      "enhanced_all"
+    ],
+    "weaknesses": [],
+    "origin": "",
+    "habitat": ""
+  }
+}
